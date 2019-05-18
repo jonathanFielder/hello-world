@@ -1,3 +1,3 @@
 # hello-world
-just getting started
-hope to make a mess of this 1
+just getting started.
+hope to make a mess of this 1.
